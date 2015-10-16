@@ -1,5 +1,6 @@
 package com.pro.domain;
 
 public class classes {
-    private int woshicc;
+    private String woshicc;
+    
 }
